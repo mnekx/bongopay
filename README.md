@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bongopay
 
-> Description the project.
+> Money transfer and payment services
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Node.js
 
 ## Live Demo (if available)
 
